@@ -1,6 +1,6 @@
 # Hi, I'm Khawla Chrifi Alaoui
 
-I'm an MSc student in Big Data Analytics at Al Akhawayn University. For my thesis, I'm studying how graph contrastive learning can improve recommendations that use both text and images. I also teach NLP recitations and put together notebooks so students can try what we cover in class.
+I'm an MSc student in Big Data Analytics at Al Akhawayn University. For my thesis, I'm studying how graph contrastive learning can improve recommendations that use both text and images. I also teach NLP recitations and put together notebooks so students can try what is covered in class.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/khawla-chrifi-alaoui-1218a62b9/)
 
